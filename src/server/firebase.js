@@ -1,10 +1,13 @@
-import { initializeApp } from "firebase/app";
-import { getAuth } from "firebase/auth";
-import { getDatabase, ref, child } from "firebase/database";
+import firebase from "firebase";
+
+import "firebase/auth";
+import "firebase/storage";
 import "firebase/database";
-const firebaseConfig = {
+
+var firebaseConfig = {
   apiKey: "AIzaSyCPyN4bHblGLX-miAfr1-XYHuMFyOvMAqg",
   authDomain: "slack-clone-73b7b.firebaseapp.com",
+  databaseURL: "https://slack-clone-73b7b-default-rtdb.firebaseio.com/",
   projectId: "slack-clone-73b7b",
   storageBucket: "slack-clone-73b7b.appspot.com",
   messagingSenderId: "213037357193",
@@ -12,7 +15,7 @@ const firebaseConfig = {
   measurementId: "G-QWKD3RQ0K5",
 };
 
-const app = initializeApp(firebaseConfig);
-const auth = getAuth();
-const database = getDatabase();
-export default { app, auth, database, ref, child };
+firebase.initializeApp(firebaseConfig);
+firebase.analytics();
+
+export default firebase;
