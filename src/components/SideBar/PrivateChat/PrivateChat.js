@@ -138,7 +138,7 @@ const PrivateChat = (props) => {
     <Menu.Menu style={{ marginTop: "35px" }}>
       <Menu.Item style={{ fontSize: "17px" }}>
         <span>
-          <Icon name="mail" /> Chat
+          <Icon name="mail" /> Direct Messages
         </span>
         ({usersState.length - 1})
       </Menu.Item>
