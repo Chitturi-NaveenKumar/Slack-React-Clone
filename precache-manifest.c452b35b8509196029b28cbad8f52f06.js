@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b7b7b280bdd4c7edcd9d09d568262b9",
+    "revision": "96dd9618dbe5bb8d1f78e1a5f0a35509",
     "url": "/Slack-Clone-React/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Slack-Clone-React/static/css/2.b5720ff1.chunk.css"
   },
   {
-    "revision": "c39e36d7a71fa641c145",
+    "revision": "8c69642b1f859ad004a3",
     "url": "/Slack-Clone-React/static/css/main.14c06b97.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Slack-Clone-React/static/js/2.cc0df974.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c39e36d7a71fa641c145",
-    "url": "/Slack-Clone-React/static/js/main.49df0039.chunk.js"
+    "revision": "8c69642b1f859ad004a3",
+    "url": "/Slack-Clone-React/static/js/main.b5f207f9.chunk.js"
   },
   {
     "revision": "b49195ae05b41b362f6d",
