@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import ReactDOM from "react-dom";
 import { connect, Provider } from "react-redux";
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Route,
   Switch,
   withRouter,
@@ -67,7 +67,7 @@ const IndexWithRouter = withRouter(
 ReactDOM.render(
   <React.StrictMode>
     <Provider store={store}>
-      <Router>
+      <Router basename="/Slack-React-Clone">
         <IndexWithRouter />
       </Router>
     </Provider>
