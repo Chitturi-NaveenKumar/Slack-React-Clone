@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Slack-React-Clone/static/css/main.14c06b97.chunk.css",
-    "main.js": "/Slack-React-Clone/static/js/main.90e655c4.chunk.js",
-    "main.js.map": "/Slack-React-Clone/static/js/main.90e655c4.chunk.js.map",
-    "runtime-main.js": "/Slack-React-Clone/static/js/runtime-main.f3988e80.js",
-    "runtime-main.js.map": "/Slack-React-Clone/static/js/runtime-main.f3988e80.js.map",
-    "static/css/2.568de7ae.chunk.css": "/Slack-React-Clone/static/css/2.568de7ae.chunk.css",
-    "static/js/2.73ecbd0e.chunk.js": "/Slack-React-Clone/static/js/2.73ecbd0e.chunk.js",
-    "static/js/2.73ecbd0e.chunk.js.map": "/Slack-React-Clone/static/js/2.73ecbd0e.chunk.js.map",
-    "index.html": "/Slack-React-Clone/index.html",
-    "precache-manifest.238d82bd9696eb303ab8d6da6e1aa7c1.js": "/Slack-React-Clone/precache-manifest.238d82bd9696eb303ab8d6da6e1aa7c1.js",
-    "service-worker.js": "/Slack-React-Clone/service-worker.js",
-    "static/css/2.568de7ae.chunk.css.map": "/Slack-React-Clone/static/css/2.568de7ae.chunk.css.map",
-    "static/css/main.14c06b97.chunk.css.map": "/Slack-React-Clone/static/css/main.14c06b97.chunk.css.map",
-    "static/js/2.73ecbd0e.chunk.js.LICENSE.txt": "/Slack-React-Clone/static/js/2.73ecbd0e.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/Slack-React-Clone/static/media/outline-icons.ef60a4f6.woff"
+    "main.css": "/Slack-Clone-React/static/css/main.14c06b97.chunk.css",
+    "main.js": "/Slack-Clone-React/static/js/main.49df0039.chunk.js",
+    "main.js.map": "/Slack-Clone-React/static/js/main.49df0039.chunk.js.map",
+    "runtime-main.js": "/Slack-Clone-React/static/js/runtime-main.5db5d91d.js",
+    "runtime-main.js.map": "/Slack-Clone-React/static/js/runtime-main.5db5d91d.js.map",
+    "static/css/2.b5720ff1.chunk.css": "/Slack-Clone-React/static/css/2.b5720ff1.chunk.css",
+    "static/js/2.cc0df974.chunk.js": "/Slack-Clone-React/static/js/2.cc0df974.chunk.js",
+    "static/js/2.cc0df974.chunk.js.map": "/Slack-Clone-React/static/js/2.cc0df974.chunk.js.map",
+    "index.html": "/Slack-Clone-React/index.html",
+    "precache-manifest.cefcc90d71f166dc41fc013f9df659ec.js": "/Slack-Clone-React/precache-manifest.cefcc90d71f166dc41fc013f9df659ec.js",
+    "service-worker.js": "/Slack-Clone-React/service-worker.js",
+    "static/css/2.b5720ff1.chunk.css.map": "/Slack-Clone-React/static/css/2.b5720ff1.chunk.css.map",
+    "static/css/main.14c06b97.chunk.css.map": "/Slack-Clone-React/static/css/main.14c06b97.chunk.css.map",
+    "static/js/2.cc0df974.chunk.js.LICENSE.txt": "/Slack-Clone-React/static/js/2.cc0df974.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/Slack-Clone-React/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.f3988e80.js",
-    "static/css/2.568de7ae.chunk.css",
-    "static/js/2.73ecbd0e.chunk.js",
+    "static/js/runtime-main.5db5d91d.js",
+    "static/css/2.b5720ff1.chunk.css",
+    "static/js/2.cc0df974.chunk.js",
     "static/css/main.14c06b97.chunk.css",
-    "static/js/main.90e655c4.chunk.js"
+    "static/js/main.49df0039.chunk.js"
   ]
 }
